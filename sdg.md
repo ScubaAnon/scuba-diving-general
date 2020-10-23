@@ -4,11 +4,6 @@
 ### Basic set ups (mainly regulator: DIR vs. standard)
 https://www.youtube.com/watch?v=ksKmBqRiUN8
 
-## Equipment maintenance
-### BCD/Wing
-#### Power Inflate Valve
-https://www.youtube.com/watch?v=E45OLt5hlIg
-
 ### Vacation/regular diver
 If you're not planning on diving more than maybe a few times a year, perhaps only during summer, then you'll probably fine with just using rental gear. If the service and maintenance of such gear, especially regulators, has you worried about breathing through moldy equipment, it might be an idea to at the very least get yourself your own regulators.
 
@@ -27,6 +22,13 @@ A wetsuit (or semi-dry suit) can be a worthwhile investment if you find a really
 If you're a regular diver, why rent anything? Bring your own gear, and maybe half of it if you're going on vacation. A twinset could be a worthwhile investment, and will serve you well into technical diving if you have any plans of ever doing that. However, if people around you are mostly using a single cylinder, you might just end up just carrying extra air for nothing (unless you use a lot of air). Twinsets also requires backplate mounting, which means less compatibility with single cylinders if you were to take your BPW with you on vacation.
 
 One worthwhile investment is in a longhose and neckreg setup (DIR setup), regardless whether you go with a twinset (two first stages) or a single cylinder. See equipment guide.
+
+## Equipment maintenance
+### BCD/Wing
+#### Power Inflate Valve
+https://www.youtube.com/watch?v=E45OLt5hlIg
+
+
 
 ## Dive locations
 ### North America
@@ -173,5 +175,7 @@ Only if you accept x2 the risk of dying.
 Get certified (beware Koh Tao in Thailand though). There are many organizations who certify divers, notable among them PADI, SSI, GUE, CMAS. PADI is probably the largest organization, but is usually a little more expensive than alternatives. Before even getting certified though practice only breathing through your mouth.
 ###### Why learn breathing only through your mouth?
 Besides likely getting water in your mask while diving at some point, there's mask flooding and mask off exercises in the course. You don't want to bolt to the surface in a panic because you suddenly snorted some water. To practice this skill, try snorkeling with swimming goggles (which won't cover your nose).
+###### Where to dive?
+The guide is sparse for now, but if you can't find anything there then ask ITT.
 ##### Best way to log dives?
 Subsurface is free as in freedom software for logging and planning dives, and it's quite possibly the best software out there. A physical logbook is also fine and should probably be used in conjunction with it.
