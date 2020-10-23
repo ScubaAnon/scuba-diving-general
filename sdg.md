@@ -1,8 +1,13 @@
-# /sdg/ - Scuba Diving General
+# /sdg/ - Scuba Diving General Guide
 
 ## Equipment Guide
 ### Basic set ups (mainly regulator: DIR vs. standard)
 https://www.youtube.com/watch?v=ksKmBqRiUN8
+
+## Equipment maintenance
+### BCD/Wing
+#### Power Inflate Valve
+https://www.youtube.com/watch?v=E45OLt5hlIg
 
 ### Vacation/regular diver
 If you're not planning on diving more than maybe a few times a year, perhaps only during summer, then you'll probably fine with just using rental gear. If the service and maintenance of such gear, especially regulators, has you worried about breathing through moldy equipment, it might be an idea to at the very least get yourself your own regulators.
@@ -23,10 +28,14 @@ If you're a regular diver, why rent anything? Bring your own gear, and maybe hal
 
 One worthwhile investment is in a longhose and neckreg setup (DIR setup), regardless whether you go with a twinset (two first stages) or a single cylinder. See equipment guide.
 
-## Equipment maintenance
-### BCD/Wing
-#### Power Inflate Valve
-https://www.youtube.com/watch?v=E45OLt5hlIg
+## Dive locations
+### North America
+#### US: Florida
+During the warmer months most all of the FL springs are packed. Late Fall/Winter is when the crowds die down. 
+
+There are a few good springs that allow open water divers. To list a few, Devils Den, Blue Grotto, Vortex, Paradise, Buford. While they allow open water divers they are still overhead environments for the most part. Dive within your limits. 
+
+As far as ocean the choices are vast. I don't do a ton of ocean diving but to name a few good charters, Tanks A Lot out of Tampa, Horizon Divers out of Key Largo, and in West Palm/Jupiter area, Pura Vida, Jupiter Dive Center, Stuart Scuba, Pirates Paradise.
 
 ## Video resources:
 Open Water diving skills:
