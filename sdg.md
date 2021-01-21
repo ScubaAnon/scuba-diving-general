@@ -28,8 +28,6 @@ One worthwhile investment is in a longhose and neckreg setup (DIR setup), regard
 #### Power Inflate Valve
 https://www.youtube.com/watch?v=E45OLt5hlIg
 
-
-
 ## Dive locations
 ### North America
 #### US: Florida
@@ -38,6 +36,35 @@ During the warmer months most all of the FL springs are packed. Late Fall/Winter
 There are a few good springs that allow open water divers. To list a few, Devils Den, Blue Grotto, Vortex, Paradise, Buford. While they allow open water divers they are still overhead environments for the most part. Dive within your limits. 
 
 As far as ocean the choices are vast. I don't do a ton of ocean diving but to name a few good charters, Tanks A Lot out of Tampa, Horizon Divers out of Key Largo, and in West Palm/Jupiter area, Pura Vida, Jupiter Dive Center, Stuart Scuba, Pirates Paradise.
+
+#### US: Lake Michigan
+Not much info: >>>/out/1937852
+
+### Caribbean
+#### Bahamas
+*"Brian Kakuk is a well regarded cave diving instructor and the Bahamas have beautiful cave systems."* - Anon, paraphrased.
+>>>/out/1920859
+
+#### Britain: Virgin Islands
+Wayward Wall, Jost Van Dyke. *"It's a nice, easy and peaceful dive with a max depth of about 65ft and zero current."* - Anon.
+
+### Red Sea
+#### Egypt: Safaga
+Pretty nice dives around the area. Shaab Claude divesite is recommended.
+>>>/out/1920269
+
+#### Egypt: Sinai Peninsula
+*"amazing night dives in Eilat, but its basically the less awesome version of Sinai cause its the tip of the red sea and its a tourist city so the reef is pretty beat up there."* - Anon, probably talking about the Gulf of Aqaba (which includes the well-known Dahab).
+
+### Indian Ocean
+#### Nicobar Islands
+*"in the Andaman Islands(specifically from Nicobar island) you used to have dives that went out to Barren Island, one the most pristine diving sites I've had the privilege of seeing, I'm talking field's of corals going out around as far as you can see with a sheer rock wall on your one side with 60-50 meters of clarity."* - Anon
+
+### South China Sea
+#### Thailand: Ko Tao
+Controversial for producing a mixed bag of divers and dive instructors. Apparently a great place if you're an instructor who needs to get experience under his/her belt.
+
+*"Koh Tao specifically is the place to be if you just want bulk work since its jam packed with tourists, you can get plenty of experience and make a humble pay that covers the basics(housing, food, booze, weed)."* - Anon.
 
 ## Video resources:
 Open Water diving skills:
@@ -160,8 +187,6 @@ https://www.youtube.com/watch?v=fttvAKJPSd4
 Suicide dive with first stage failure:
 https://www.youtube.com/watch?v=AqKUUrlK2tM
 
-
-
 ## FAQ:
 ##### Why bother?
 It's a pretty based hobby if you like getting wet. Staying and breathing underwater for longer periods of time exposes you to a completely different world and experience. You should at least try this once in your lifetime. Also, there's no talking underwater (except occasional hand signals), so you won't have to deal with nagging from other people except for a short period on the surface.
@@ -172,7 +197,7 @@ Yes, you could die with very little effort (hold your breath and ascend: boom, y
 ##### Can I dive alone?
 Only if you accept x2 the risk of dying.
 ##### Where do I start?
-Get certified (beware Koh Tao in Thailand though). There are many organizations who certify divers, notable among them PADI, SSI, GUE, CMAS. PADI is probably the largest organization, but is usually a little more expensive than alternatives. Before even getting certified though practice only breathing through your mouth.
+Get certified (beware Ko Tao in Thailand though). There are many organizations who certify divers, notable among them PADI, SSI, GUE, CMAS. PADI is probably the largest organization, but is usually a little more expensive than alternatives. Before even getting certified though practice only breathing through your mouth.
 ###### Why learn breathing only through your mouth?
 Besides likely getting water in your mask while diving at some point, there's mask flooding and mask off exercises in the course. You don't want to bolt to the surface in a panic because you suddenly snorted some water. To practice this skill, try snorkeling with swimming goggles (which won't cover your nose).
 ###### Where to dive?
