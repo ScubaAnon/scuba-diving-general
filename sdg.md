@@ -38,7 +38,7 @@ There are a few good springs that allow open water divers. To list a few, Devils
 As far as ocean the choices are vast. I don't do a ton of ocean diving but to name a few good charters, Tanks A Lot out of Tampa, Horizon Divers out of Key Largo, and in West Palm/Jupiter area, Pura Vida, Jupiter Dive Center, Stuart Scuba, Pirates Paradise.
 
 #### US: Lake Michigan
-Not much info: >>>/out/1937852
+*"Milwaukee area, call Shipwreck Explorers or Double Action Dive Charters. The Len-Der is ok but doesn't post their calendar anymore. The car ferry is one of my favorites, the prins William is fun, and the dredge is cool too."* -Anon. >>>/out/1996031
 
 ### Caribbean
 #### Bahamas
@@ -187,6 +187,9 @@ https://www.youtube.com/watch?v=fttvAKJPSd4
 Suicide dive with first stage failure:
 https://www.youtube.com/watch?v=AqKUUrlK2tM
 
+Failure to equalize mask resulting in mask squeeze:
+https://www.youtube.com/watch?v=u5nY58I284Y
+
 ## FAQ:
 ##### Why bother?
 It's a pretty based hobby if you like getting wet. Staying and breathing underwater for longer periods of time exposes you to a completely different world and experience. You should at least try this once in your lifetime. Also, there's no talking underwater (except occasional hand signals), so you won't have to deal with nagging from other people except for a short period on the surface.
@@ -199,7 +202,7 @@ Only if you accept x2 the risk of dying.
 ##### Where do I start?
 Get certified (beware Ko Tao in Thailand though). There are many organizations who certify divers, notable among them PADI, SSI, GUE, CMAS. PADI is probably the largest organization, but is usually a little more expensive than alternatives. Before even getting certified though practice only breathing through your mouth.
 ###### Why learn breathing only through your mouth?
-Besides likely getting water in your mask while diving at some point, there's mask flooding and mask off exercises in the course. You don't want to bolt to the surface in a panic because you suddenly snorted some water. To practice this skill, try snorkeling with swimming goggles (which won't cover your nose).
+Besides likely getting water in your mask while diving at some point, there's mask flooding and mask off exercises in the course. You don't want to bolt to the surface in a panic because you suddenly snorted some water. For practice, try snorkeling with swimming goggles (which won't cover your nose). Don't forget about mask squeeze though (see video in guide).
 ###### Where to dive?
 The guide is sparse for now, but if you can't find anything there then ask ITT.
 ##### Best way to log dives?
