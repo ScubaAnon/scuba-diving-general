@@ -43,6 +43,7 @@ As far as ocean the choices are vast. I don't do a ton of ocean diving but to na
 ### South America
 #### Mexico
 *"El Pit Cenote in Tulum"*
+
 *"was pretty epic, found pirate treasure behind the stop sign!"* - Anon. >>>/out/2031612
 
 ### Caribbean
@@ -76,6 +77,7 @@ Controversial for producing a mixed bag of divers and dive instructors. Apparent
 *"went to iceland last summer and did a dive in the silfra and two at the strytan
 water in the silfra is incredibly clear, "trolls hair" algae look pretty cool, sadly no fishies :(
 lots of cool fishies at the striyan, best one is the wolfsfish"*
+
 *"second dive at the strytan was at the geothermal vent so really unique
 warm water coming out of it which is nice when youre in the cold water and 
 cool fishies and jellyfish that light up in all colors when you point 
