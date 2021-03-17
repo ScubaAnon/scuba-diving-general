@@ -38,7 +38,12 @@ There are a few good springs that allow open water divers. To list a few, Devils
 As far as ocean the choices are vast. I don't do a ton of ocean diving but to name a few good charters, Tanks A Lot out of Tampa, Horizon Divers out of Key Largo, and in West Palm/Jupiter area, Pura Vida, Jupiter Dive Center, Stuart Scuba, Pirates Paradise.
 
 #### US: Lake Michigan
-*"Milwaukee area, call Shipwreck Explorers or Double Action Dive Charters. The Len-Der is ok but doesn't post their calendar anymore. The car ferry is one of my favorites, the prins William is fun, and the dredge is cool too."* -Anon. >>>/out/1996031
+*"Milwaukee area, call Shipwreck Explorers or Double Action Dive Charters. The Len-Der is ok but doesn't post their calendar anymore. The car ferry is one of my favorites, the prins William is fun, and the dredge is cool too."* - Anon. >>>/out/1996031
+
+### South America
+#### Mexico
+*"El Pit Cenote in Tulum"*
+*"was pretty epic, found pirate treasure behind the stop sign!"* - Anon. >>>/out/2031612
 
 ### Caribbean
 #### Bahamas
@@ -65,6 +70,16 @@ Pretty nice dives around the area. Shaab Claude divesite is recommended.
 Controversial for producing a mixed bag of divers and dive instructors. Apparently a great place if you're an instructor who needs to get experience under his/her belt.
 
 *"Koh Tao specifically is the place to be if you just want bulk work since its jam packed with tourists, you can get plenty of experience and make a humble pay that covers the basics(housing, food, booze, weed)."* - Anon.
+
+### Scandinavia
+#### Iceland
+*"went to iceland last summer and did a dive in the silfra and two at the strytan
+water in the silfra is incredibly clear, "trolls hair" algae look pretty cool, sadly no fishies :(
+lots of cool fishies at the striyan, best one is the wolfsfish"*
+*"second dive at the strytan was at the geothermal vent so really unique
+warm water coming out of it which is nice when youre in the cold water and 
+cool fishies and jellyfish that light up in all colors when you point 
+your flashlight at them"* - Anon. >>>/out/2036350 >>>/out/2038329
 
 ## Video resources:
 Open Water diving skills:
