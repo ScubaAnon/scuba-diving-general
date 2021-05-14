@@ -78,6 +78,15 @@ Controversial for producing a mixed bag of divers and dive instructors. Apparent
 water in the silfra is incredibly clear, "trolls hair" algae look pretty cool, sadly no fishies :(
 lots of cool fishies at the striyan, best one is the wolfsfish"*
 
+<details>
+<summary>Images</summary>
+
+![Image of Silfra](https://github.com/ScubaAnon/scuba-diving-general/blob/master/images/silfra57.jpg)
+![Image of Silfra](https://github.com/ScubaAnon/scuba-diving-general/blob/master/images/silfra7.jpg)
+
+</details>
+
+
 *"second dive at the strytan was at the geothermal vent so really unique
 warm water coming out of it which is nice when youre in the cold water and 
 cool fishies and jellyfish that light up in all colors when you point 
