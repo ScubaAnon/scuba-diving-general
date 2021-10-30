@@ -29,10 +29,10 @@ Divers of all levels welcome, freedivers, as well as people just thinking about 
 
 Don't dive beyond your limits!
 
-Guide:
->https://github.com/ScubaAnon/scuba-diving-general/
 Archives of previous threads:
 >https://archive.nyafuu.org/out/
+Guide:
+>https://github.com/ScubaAnon/scuba-diving-general/
 Feel free to contribute to it either directly or indirectly through the thread.
 ```
 
