@@ -13,7 +13,10 @@ Afterwards should follow a concise description of this thread's purpose and cont
 Finally, add a link to the guide in this repository (unless you hate it) as well as a link to an external archive of previous threads (see example below).
 
 ##### Body (example)
-<details>
+<details open>
+<summary>Example</summary>
+
+```
 Previous thread: >>2105851
 
 SCUBA = Self-Contained Underwater Breathing Apparatus
@@ -31,12 +34,17 @@ Guide:
 Archives of previous threads:
 >https://archive.nyafuu.org/out/
 Feel free to contribute to it either directly or indirectly through the thread.
+```
+
 </details>
 
 ### FAQ posts
 Not strictly necessary, but you can post the guide FAQ in two susequent posts. Copy&paste below.
 
 #### Post 1
+<details open>
+<summary>Example</summary>
+
 ```
 FAQ:
 >Why bother?
@@ -70,7 +78,12 @@ CMAS. PADI is probably the largest organization, but is usually a little
 practice only breathing through your mouth.
 ```
 
+</details>
+
 #### Post 2
+<details open>
+<summary>Example</summary>
+
 ```
 FAQ continued:
 >Why learn breathing only through your mouth?
@@ -88,3 +101,5 @@ Subsurface
  quite possibly the best software out there. A physical logbook is also 
 fine and should probably be used in conjunction with it.
 ```
+
+</details>
