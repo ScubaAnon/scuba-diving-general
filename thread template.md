@@ -13,7 +13,7 @@ Afterwards should follow a concise description of this thread's purpose and cont
 Finally, add a link to the guide in this repository (unless you hate it) as well as a link to an external archive of previous threads (see example below).
 
 ##### Body (example)
-<details open>
+<details>
 <summary>Example</summary>
 
 ```
@@ -42,7 +42,7 @@ Feel free to contribute to it either directly or indirectly through the thread.
 Not strictly necessary, but you can post the guide FAQ in two susequent posts. Copy&paste below.
 
 #### Post 1
-<details open>
+<details>
 <summary>Example</summary>
 
 ```
@@ -81,7 +81,7 @@ practice only breathing through your mouth.
 </details>
 
 #### Post 2
-<details open>
+<details>
 <summary>Example</summary>
 
 ```
