@@ -48,16 +48,14 @@ As far as ocean the choices are vast. I don't do a ton of ocean diving but to na
 
 ### Caribbean
 #### Bahamas
-*"Brian Kakuk is a well regarded cave diving instructor and the Bahamas have beautiful cave systems."* - Anon, paraphrased.
-*>>>/out/1920859*
+*"Brian Kakuk is a well regarded cave diving instructor and the Bahamas have beautiful cave systems."* - Anon, paraphrased. >>>/out/1920859
 
 #### Britain: Virgin Islands
 Wayward Wall, Jost Van Dyke. *"It's a nice, easy and peaceful dive with a max depth of about 65ft and zero current."* - Anon.
 
 ### Red Sea
 #### Egypt: Safaga
-Pretty nice dives around the area. Shaab Claude divesite is recommended.
-*>>>/out/1920269*
+Pretty nice dives around the area. Shaab Claude divesite is recommended. From Anon. >>>/out/1920269
 
 #### Egypt: Sinai Peninsula
 *"amazing night dives in Eilat, but its basically the less awesome version of Sinai cause its the tip of the red sea and its a tourist city so the reef is pretty beat up there."* - Anon, probably talking about the Gulf of Aqaba (which includes the well-known Dahab).
