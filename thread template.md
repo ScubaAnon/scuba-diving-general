@@ -14,8 +14,6 @@ Finally, add a link to the guide in this repository (unless you hate it) as well
 
 ##### Body (example)
 <details>
-<summary>Example</summary>
-```
 Previous thread: >>2105851
 
 SCUBA = Self-Contained Underwater Breathing Apparatus
@@ -33,7 +31,6 @@ Guide:
 Archives of previous threads:
 >https://archive.nyafuu.org/out/
 Feel free to contribute to it either directly or indirectly through the thread.
-```
 </details>
 
 ### FAQ posts
