@@ -48,13 +48,9 @@ Not strictly necessary, but you can post the guide FAQ in two susequent posts. C
 ```
 FAQ:
 >Why bother?
-It's a pretty 
-based hobby if you like getting wet. Staying and breathing underwater 
-for longer periods of time exposes you to a completely different world 
-and experience. You should at least try this once in your lifetime. 
-Also, there's no talking underwater (except occasional hand signals), so
- you won't have to deal with nagging from other people except for a 
-short period on the surface.
+```
+>It's a pretty based hobby if you like getting wet. Staying and breathing underwater for longer periods of time exposes you to a completely different world and experience. You should at least try this once in your lifetime. Also, there's no talking underwater (except occasional hand signals), so you won't have to deal with nagging from other people except for a short period on the surface.
+```
 >Is it expensive?
 Any
  hobby has its expenses. If you choose to own your own gear instead of 
@@ -87,19 +83,11 @@ practice only breathing through your mouth.
 ```
 FAQ continued:
 >Why learn breathing only through your mouth?
-Besides
- likely getting water in your mask while diving at some point, there's 
-mask flooding and mask off exercises in the course. You don't want to 
-bolt to the surface in a panic because you suddenly snorted some water. 
-For practice, try snorkeling with swimming goggles (which won't cover 
-your nose). Don't forget about mask squeeze though (see video in guide).
+Besides likely getting water in your mask while diving at some point, there's mask flooding and mask off exercises in the course. You don't want to bolt to the surface in a panic because you suddenly snorted some water. For practice, try snorkeling with swimming goggles (which won't cover your nose). Don't forget about mask squeeze though (see video in guide).
 >Where to dive?
 The guide is sparse for now, but if you can't find anything there then ask ITT.
 >Best way to log dives?
-Subsurface
- is free as in freedom software for logging and planning dives, and it's
- quite possibly the best software out there. A physical logbook is also 
-fine and should probably be used in conjunction with it.
+Subsurface is free as in freedom software for logging and planning dives, and it's quite possibly the best software out there. A physical logbook is also fine and should probably be used in conjunction with it.
 ```
 
 </details>
