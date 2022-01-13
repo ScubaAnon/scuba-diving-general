@@ -48,30 +48,15 @@ Not strictly necessary, but you can post the guide FAQ in two susequent posts. C
 ```
 FAQ:
 >Why bother?
-```
->It's a pretty based hobby if you like getting wet. Staying and breathing underwater for longer periods of time exposes you to a completely different world and experience. You should at least try this once in your lifetime. Also, there's no talking underwater (except occasional hand signals), so you won't have to deal with nagging from other people except for a short period on the surface.
-```
+It's a pretty based hobby if you like getting wet. Staying and breathing underwater for longer periods of time exposes you to a completely different world and experience. You should at least try this once in your lifetime. Also, there's no talking underwater (except occasional hand signals), so you won't have to deal with nagging from other people except for a short period on the surface.
 >Is it expensive?
-Any
- hobby has its expenses. If you choose to own your own gear instead of 
-renting it you'll quickly drive up quite a hefty cost. However, if you 
-turn out to be an active diver the initial investment is usually worth 
-it over time.
+Any hobby has its expenses. If you choose to own your own gear instead of renting it you'll quickly drive up quite a hefty cost. However, if you turn out to be an active diver the initial investment is usually worth it over time.
 >Isn't SCUBA diving dangerous?
-Yes,
- you could die with very little effort (hold your breath and ascend: 
-boom, you're dead). You should keep this in mind every time you dive. 
-The risk is worth it though, and quite low when it comes to recreational
- diving between or shallower than 18-20 meters.
+Yes, you could die with very little effort (hold your breath and ascend: boom, you're dead). You should keep this in mind every time you dive. The risk is worth it though, and quite low when it comes to recreational diving between or shallower than 18-20 meters.
 >Can I dive alone?
 Only if you accept x2 the risk of dying.
 >Where do I start?
-Get
- certified (beware Ko Tao in Thailand though). There are many 
-organizations who certify divers, notable among them PADI, SSI, GUE, 
-CMAS. PADI is probably the largest organization, but is usually a little
- more expensive than alternatives. Before even getting certified though 
-practice only breathing through your mouth.
+Get certified (beware Ko Tao in Thailand though). There are many organizations who certify divers, notable among them PADI, SSI, GUE, CMAS. PADI is probably the largest organization, but is usually a little more expensive than alternatives. Before even getting certified though practice only breathing through your mouth.
 ```
 
 </details>
